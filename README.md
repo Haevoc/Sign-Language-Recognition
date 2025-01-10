@@ -54,5 +54,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 - TensorFlow and the open-source community for providing robust tools for deep learning.
 - And also thanks to nicknochnack.
 
+This project was done in 2023 and some functions might not work as expected.
+
 Happy Coding! 🎉
 
